@@ -1,0 +1,14 @@
+Los ejercicios se encuentran en este orden y en estos archivos:
+1. Suma y SumaClienye = 1,2,3,4,5
+2. Pilas y PilasCliente = 6,7,8
+3. Calculadora y CalculadoraCliente = 9
+4. Historial e HistorialCliente = 10
+5. Cola y ColaCliente = 11
+6. Banco y bancoCliente = 12
+7. ColaCircular y CircularCliente = 13, 14
+8. Ordenar_Cola y OrdenarColaCliente = 15
+9. Lista_Enlazada y ListaEnlazadaCliente = 16, 17, 18
+
+9. Fusionar_dos_Listas_Enlazadas y FusionardosListaCliente = 19
+
+10. Arboles_Binarios y ArbolesBinariosCliente = 20, 21, 22, 23
